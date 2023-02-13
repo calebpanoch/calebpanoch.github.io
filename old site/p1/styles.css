@@ -1,0 +1,39 @@
+﻿h1, h2, h3, h4, h5, footer {
+    font-size: 25pt;
+}
+
+h2 {
+    color: rgb(0, 150, 0);
+}
+
+h3 {
+    color: rgb(255, 0, 0);
+}
+
+h4 {
+    color: rgb(0, 0, 255);
+}
+
+body {
+    background-color: rgb(200, 200, 200);
+}
+
+div, .ed_list, .work_list, .extra {
+    font-size: 15pt;
+}
+
+div {
+    width: 40%;
+}
+
+.extra {
+    width: 50%;
+}
+
+.fau {
+    color: orangered;
+}
+
+table, th, td {
+  border: 2px solid black;
+}
